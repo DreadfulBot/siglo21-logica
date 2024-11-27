@@ -3,7 +3,11 @@
     "sstream": "cpp",
     "string": "cpp",
     "bitset": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "vector": "cpp",
+    "unordered_map": "cpp",
+    "ios": "cpp",
+    "iosfwd": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
